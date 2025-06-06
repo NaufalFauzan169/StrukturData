@@ -6,6 +6,27 @@
     "configurations": [
         {
             "type": "java",
+            "name": "DemoAntrian",
+            "request": "launch",
+            "mainClass": "queue.DemoAntrian",
+            "projectName": "StrukturData_6fc4b301"
+        },
+        {
+            "type": "java",
+            "name": "DemoStackQueue",
+            "request": "launch",
+            "mainClass": "DemoStackQueue",
+            "projectName": "StrukturData_6fc4b301"
+        },
+        {
+            "type": "java",
+            "name": "S",
+            "request": "launch",
+            "mainClass": "S",
+            "projectName": "StrukturData_6fc4b301"
+        },
+        {
+            "type": "java",
             "name": "App",
             "request": "launch",
             "mainClass": "App",
